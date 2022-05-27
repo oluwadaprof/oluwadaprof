@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isreal
 
-- 👀 I’m in interested frontend web and mobile application developer.
+- 👀 I’m interested in frontend web and mobile application developer.
 
 - 🌱 My Tech Stacks are: React.js, CSS, Vanilla js, Dart, Flutter, React-native.
       I love CSS alot and my go to syling libraries are: 
