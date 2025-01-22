@@ -9,10 +9,15 @@
 - 💞️ I’m looking to collaborate on any kind of projects that challenges my coding skils.
 
 - 🤖 My core skills:
+
     -Resilient 🐱‍🚀
+
     -Fast Learner (easily learn new tech skills) 😎
+
     -Team player 👨‍👧‍👦
+
     -Excellent communication skills 🔊
+
     -Excellent work ethics 📍
  
 - 📫 How to reach me?
